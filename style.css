@@ -1,0 +1,331 @@
+body{
+padding: 0px;
+margin: 0px;
+width: 0px auto;
+}
+/* Extra Small devices (landscape phones, 576px and up) */
+@media (max-width: 575px){  
+    body{
+        background-color: white;
+            
+    }
+    h1{
+        text-align: center;
+    } 
+    #main{
+        width: 93%;
+        border:2px solid black;
+        padding: 2%;
+        cursor: pointer;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 4px;
+        font-weight: bold;
+    }
+    .info-display{
+        display: block;
+        cursor: pointer;
+        border: 2px solid black;
+        border-top: 0px;
+        text-align: justify;
+        color:'black';
+        width :97%;
+        line-height: 2em;
+        margin-left: 5px;
+        margin-right: 5px;
+        font-size: 16px;
+    }
+     .info{
+        display: none;
+      
+    } 
+   
+     .secnddiv {
+        display: block;
+        width: 94%;
+        border:2px solid black;
+        padding: 1.5%;
+        cursor: pointer;
+        margin-left: 5px;
+        margin-right: 5px;
+        font-weight: bold;
+
+     }
+    
+     .scnd{
+        display: block;
+        cursor: pointer;
+        border: 2px solid black;
+        border-top: 0px;
+        text-align: justify;
+        color:'black';
+        width :97%;
+        line-height: 2em;
+        margin-left: 5px;
+        margin-right: 5px;
+        font-size: 16px;
+    }
+    .scnd{
+        display: none;
+    }
+
+
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px){  
+    body{
+        background-color: white;
+            
+    }
+    h1{
+        text-align: center;
+    } 
+    #main{
+        width: 93%;
+        border:2px solid black;
+        padding: 2%;
+        cursor: pointer;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 4px;
+        font-weight: bold;
+    }
+    .info-display{
+        display: block;
+        cursor: pointer;
+        border: 2px solid black;
+        border-top: 0px;
+        text-align: justify;
+        color:'black';
+        width :97%;
+        line-height: 2em;
+        margin-left: 5px;
+        margin-right: 5px;
+        font-size: 16px;
+    }
+     .info{
+        display: none;
+      
+    } 
+   
+     .secnddiv {
+        display: block;
+        width: 94%;
+        border:2px solid black;
+        padding: 1.5%;
+        cursor: pointer;
+        margin-left: 5px;
+        margin-right: 5px;
+        font-weight: bold;
+
+     }
+    
+     .scnd{
+        display: block;
+        cursor: pointer;
+        border: 2px solid black;
+        border-top: 0px;
+        text-align: justify;
+        color:'black';
+        width :97%;
+        line-height: 2em;
+        margin-left: 5px;
+        margin-right: 5px;
+        font-size: 16px;
+    }
+    .scnd{
+        display: none;
+    }
+
+}
+ 
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {  
+    body{
+        background-color: white;
+            
+    }
+    h1{
+        text-align: center;
+    } 
+    #main{
+        width: 80%;
+        border:2px solid black;
+        padding: 1.5%;
+        cursor: pointer;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 4px;
+    }
+    .info-display{
+        display: block;
+        cursor: pointer;
+        border: 2px solid black;
+        border-top: 0px;
+        text-align: justify;
+        color:'black';
+        width :83%;
+        line-height: 2em;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+     .info{
+        display: none;
+      
+    } 
+   
+     .secnddiv {
+        display: block;
+        width: 80%;
+        border:2px solid black;
+        padding: 1.5%;
+        cursor: pointer;
+        margin-left: 5px;
+        margin-right: 5px;
+
+     }
+    
+     .scnd{
+        display: block;
+        cursor: pointer;
+        border: 2px solid black;
+        border-top: 0px;
+        text-align: justify;
+        color:'black';
+        width :83%;
+        line-height: 2em;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .scnd{
+        display: none;
+    }
+}
+ 
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    body{
+        background-color: white;
+            
+    }
+    h1{
+        text-align: center;
+    } 
+    #main{
+        width: 80%;
+        border:2px solid black;
+        padding: 1.5%;
+        cursor: pointer;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 4px;
+    }
+    .info-display{
+        display: block;
+        cursor: pointer;
+        border: 2px solid black;
+        border-top: 0px;
+        text-align: justify;
+        color:'black';
+        width :83%;
+        line-height: 2em;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+     .info{
+        display: none;
+      
+    } 
+   
+     .secnddiv {
+        display: block;
+        width: 80%;
+        border:2px solid black;
+        padding: 1.5%;
+        cursor: pointer;
+        margin-left: 5px;
+        margin-right: 5px;
+
+     }
+    
+     .scnd{
+        display: block;
+        cursor: pointer;
+        border: 2px solid black;
+        border-top: 0px;
+        text-align: justify;
+        color:'black';
+        width :83%;
+        line-height: 2em;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .scnd{
+        display: none;
+    }
+}
+ 
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+    
+    body{
+        background-color: white;
+            
+    }
+    h1{
+        text-align: center;
+    } 
+    #main{
+        width: 80%;
+        border:2px solid black;
+        padding: 1.5%;
+        cursor: pointer;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 4px;
+    }
+    .info-display{
+        display: block;
+        cursor: pointer;
+        border: 2px solid black;
+        border-top: 0px;
+        text-align: justify;
+        color:'black';
+        width :83%;
+        line-height: 2em;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+     .info{
+        display: none;
+      
+    } 
+   
+     .secnddiv {
+        display: block;
+        width: 80%;
+        border:2px solid black;
+        padding: 1.5%;
+        cursor: pointer;
+        margin-left: 5px;
+        margin-right: 5px;
+
+     }
+    
+     .scnd{
+        display: block;
+        cursor: pointer;
+        border: 2px solid black;
+        border-top: 0px;
+        text-align: justify;
+        color:'black';
+        width :83%;
+        line-height: 2em;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .scnd{
+        display: none;
+    }
+}
+ 
